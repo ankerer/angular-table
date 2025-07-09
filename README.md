@@ -28,6 +28,7 @@ Your job is to complete and extend the generic data-table.
 - Angular 20
 - TypeScript
 - Optional: NGXS for state management
+- Tailwind CSS for styling (optional)
 
 ---
 
