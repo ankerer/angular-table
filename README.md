@@ -65,12 +65,12 @@ Your job is to complete and extend the generic data-table.
   - Displays avatar as an image
   - Supports custom column: full name (firstName + lastName)
 
-### ✅ Filtering
+### ✅ Filtering (optional)
 
 - Add a search input that filters users by all fields except avatar (case-insensitive match)
 - Filter applies across multiple fields (e.g., typing "john" matches firstName or username)
 
-### ✅ Sorting
+### ✅ Sorting (optional)
 
 - Clickable column headers to sort ascending/descending
 - Only applies to string/text fields
