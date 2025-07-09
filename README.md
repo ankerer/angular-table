@@ -86,9 +86,12 @@ Your job is to complete and extend the generic data-table.
   - No re-fetching on route change
 
 - Style the table nicely:
+
   - Responsive layout
   - Highlighted rows on hover
   - Sort/filter UI that feels clean and modern
+
+- Write unit tests for the `data-table.component.ts` in `data-table.component.spec.ts`
 
 ---
 
